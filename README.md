@@ -1,0 +1,2 @@
+# Developing-an-E-commerce-Mobile-Application-with-Android-Kotlin-for-a-Perfume-Store-Zumar-
+Zumar is an Android Kotlin e-commerce app for perfumes, offering 24/7 shopping with secure login, real-time catalog, cart management, multiple payments, and order tracking. Built with MVVM and Firebase, it includes multi-currency, language support, dark mode, GPS address autofill, coupons, and a user-friendly dashboard.
