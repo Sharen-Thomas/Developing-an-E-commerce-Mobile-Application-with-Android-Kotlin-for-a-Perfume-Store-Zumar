@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-Zumar is a fully functional Android e-commerce app built with Kotlin for a perfume store. Features secure authentication, product discovery, cart management, multi-currency support, and real-time order tracking—delivering a seamless mobile shopping experience.
+Zumar is a fully functional Android e-commerce app built with Kotlin for a perfume store. Features secure authentication, product discovery, cart management, multi-currency support, and real-time order tracking, delivering a seamless mobile shopping experience.
 
 ## WHAT IT DOES
 
