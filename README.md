@@ -1,4 +1,4 @@
-# Developing-an-E-commerce-Mobile-Application-with-Android-Kotlin-for-a-Perfume-Store-Zumar-
+# Developing-an-E-commerce-Mobile-Application-with-Android-Kotlin-for-a-Perfume-Store-Zumar
 
 ## OVERVIEW
 
